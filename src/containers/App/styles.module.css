@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+.header {
+  background-color: var(--highlight);
+  padding: var(--padding);
+  color: white;
+}
+
+.intro {
+  font-size: large;
+}
